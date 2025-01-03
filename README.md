@@ -1,5 +1,6 @@
 # k8s-observability
 
+![architecture](images/architecture.gif)
 
 ## Create EKS Cluster
 
